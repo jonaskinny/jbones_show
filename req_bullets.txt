@@ -1,0 +1,32 @@
+App
+- Role
+    : Module
+    : Module
+- Role
+    : Module
+    : Module
+    
+    
+Show (desktop)
+- ShowOp
+    : Notes Deck
+    : File Compare
+    : Content Modification (chainable tasks/replay/change order of exection)
+    : Workflow
+    : Notification
+    : Show Archive (.show file)
+- Producer
+    : People
+    : Roles
+    : Events
+    : Metrics/Analytics
+    : Role Alias (Producer can execute ShowOp/Coordinator/Speaker actions)
+- Coordinator
+    : Versioning
+    : Merging
+- Speaker
+    : Thin Client (web/mob-web)
+    : Upload
+    : Download
+    : Read-Only Event View
+
